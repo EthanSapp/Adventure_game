@@ -6,8 +6,8 @@
   "solid": false,
   "visible": true,
   "spriteMaskId": {
-    "name": "S_player_run_down",
-    "path": "sprites/S_player_run_down/S_player_run_down.yy",
+    "name": "S_player_run_right",
+    "path": "sprites/S_player_run_right/S_player_run_right.yy",
   },
   "persistent": false,
   "parentObjectId": null,
