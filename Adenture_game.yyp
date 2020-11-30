@@ -6,6 +6,7 @@
     {"id":{"name":"S_solid","path":"sprites/S_solid/S_solid.yy",},"order":3,},
     {"id":{"name":"S_player_run_right","path":"sprites/S_player_run_right/S_player_run_right.yy",},"order":0,},
     {"id":{"name":"S_player_run_down","path":"sprites/S_player_run_down/S_player_run_down.yy",},"order":1,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"R_base","path":"rooms/R_base/R_base.yy",},"order":0,},
   ],
   "Options": [
