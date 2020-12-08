@@ -1,10 +1,8 @@
-//initialize_movement_entity(0.5, 1 , O_solid);
+initialize_movement_entity(0.5, 1 , O_solid);
 image_speed = 0;
 
-speed_ = 2;
-
 acceleration = 0.5;
-max_speed = 0.5;
+max_speed = 1.5;
 
 direction_facing = dir.right;
 
