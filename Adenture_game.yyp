@@ -13,6 +13,7 @@
     {"id":{"name":"S_player_run_down","path":"sprites/S_player_run_down/S_player_run_down.yy",},"order":1,},
     {"id":{"name":"apply_friction_to_movement_entity","path":"scripts/apply_friction_to_movement_entity/apply_friction_to_movement_entity.yy",},"order":1,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":2,},
+    {"id":{"name":"s_grass_background","path":"sprites/s_grass_background/s_grass_background.yy",},"order":4,},
     {"id":{"name":"R_base","path":"rooms/R_base/R_base.yy",},"order":0,},
   ],
   "Options": [
