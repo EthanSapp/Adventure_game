@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"272de0a9-6efe-4b89-8d6b-f672207b26b2","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "world",
+    "path": "folders/Sprites/world.yy",
   },
   "resourceVersion": "1.0",
   "name": "S_solid",
