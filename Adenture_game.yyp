@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":3,},
+    {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":5,},
     {"id":{"name":"O_player","path":"objects/O_player/O_player.yy",},"order":0,},
     {"id":{"name":"t_dirtpath","path":"tilesets/t_dirtpath/t_dirtpath.yy",},"order":1,},
     {"id":{"name":"O_solid","path":"objects/O_solid/O_solid.yy",},"order":1,},
