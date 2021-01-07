@@ -6,11 +6,16 @@ max_speed = 1.5;
 
 direction_facing = dir.right;
 
+roll_direction_ = 0;
+
+roll_speed_ = 2;
+
 global.player_health = 4;
 
 enum player {
 	move,
-	sword
+	sword,
+	evade
 }
 
 enum dir {
@@ -32,3 +37,8 @@ sprite_[player.sword, dir.right] = s_player_sword_right;
 sprite_[player.sword, dir.up] = s_player_sword_up;
 sprite_[player.sword, dir.left] = s_player_sword_right;
 sprite_[player.sword, dir.down] = s_player_sword_down;
+
+sprite_[player.evade, dir.right] = s_player_roll_right;
+sprite_[player.evade, dir.up] = s_player_roll_up;
+sprite_[player.evade, dir.left] = s_player_roll_right;
+sprite_[player.evade, dir.down] = s_player_roll_down;
