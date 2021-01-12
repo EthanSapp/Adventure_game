@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Hitbox scripts",
+    "path": "folders/Scripts/Hitbox scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "animation_hit_frame",
+  "name": "create_hitbox",
   "tags": [],
   "resourceType": "GMScript",
 }
