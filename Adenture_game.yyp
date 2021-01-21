@@ -29,6 +29,7 @@
     {"id":{"name":"s_player_roll_down","path":"sprites/s_player_roll_down/s_player_roll_down.yy",},"order":8,},
     {"id":{"name":"s_grass_background","path":"sprites/s_grass_background/s_grass_background.yy",},"order":2,},
     {"id":{"name":"s_player_roll_right","path":"sprites/s_player_roll_right/s_player_roll_right.yy",},"order":6,},
+    {"id":{"name":"o_enemy","path":"objects/o_enemy/o_enemy.yy",},"order":0,},
     {"id":{"name":"s_bomb_hitbox","path":"sprites/s_bomb_hitbox/s_bomb_hitbox.yy",},"order":1,},
     {"id":{"name":"s_player_sword_up","path":"sprites/s_player_sword_up/s_player_sword_up.yy",},"order":4,},
     {"id":{"name":"R_base","path":"rooms/R_base/R_base.yy",},"order":0,},
@@ -46,8 +47,8 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"R_base","path":"rooms/R_base/R_base.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"R_base","path":"rooms/R_base/R_base.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -69,18 +70,19 @@
     {"folderPath":"folders/Sprites/world.yy","order":8,"resourceVersion":"1.0","name":"world","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/collision sprites.yy","order":9,"resourceVersion":"1.0","name":"collision sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Hitbox scripts.yy","order":5,"resourceVersion":"1.0","name":"Hitbox scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/enemies.yy","order":4,"resourceVersion":"1.0","name":"enemies","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
-    {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":461609314234257646,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.542",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "Adenture_game",
   "tags": [],
   "resourceType": "GMProject",
