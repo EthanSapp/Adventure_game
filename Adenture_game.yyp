@@ -13,6 +13,7 @@
     {"id":{"name":"t_dirwall","path":"tilesets/t_dirwall/t_dirwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":0,},
     {"id":{"name":"is_target","path":"scripts/is_target/is_target.yy",},"order":9,},
+    {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
     {"id":{"name":"add_movement_maxspeed","path":"scripts/add_movement_maxspeed/add_movement_maxspeed.yy",},"order":0,},
     {"id":{"name":"s_porcupine_run","path":"sprites/s_porcupine_run/s_porcupine_run.yy",},"order":10,},
     {"id":{"name":"s_player_sword_right","path":"sprites/s_player_sword_right/s_player_sword_right.yy",},"order":3,},
@@ -30,6 +31,7 @@
     {"id":{"name":"initialize_hirtbox_entity","path":"scripts/initialize_hirtbox_entity/initialize_hirtbox_entity.yy",},"order":7,},
     {"id":{"name":"apply_friction_to_movement_entity","path":"scripts/apply_friction_to_movement_entity/apply_friction_to_movement_entity.yy",},"order":1,},
     {"id":{"name":"s_dirtpat_tileset","path":"sprites/s_dirtpat_tileset/s_dirtpat_tileset.yy",},"order":0,},
+    {"id":{"name":"R_int","path":"rooms/R_int/R_int.yy",},"order":1,},
     {"id":{"name":"s_porcupine_hitbox","path":"sprites/s_porcupine_hitbox/s_porcupine_hitbox.yy",},"order":12,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":2,},
@@ -56,6 +58,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"R_int","path":"rooms/R_int/R_int.yy",},},
     {"roomId":{"name":"R_base","path":"rooms/R_base/R_base.yy",},},
   ],
   "Folders": [
