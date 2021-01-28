@@ -1,4 +1,5 @@
 initialize_movement_entity(1, .5, O_solid);
+initialize_hirtbox_entity();
 
 max_health_ = 2;
 health_ = max_health_;
