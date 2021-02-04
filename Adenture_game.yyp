@@ -12,6 +12,7 @@
     {"id":{"name":"S_player_run_up","path":"sprites/S_player_run_up/S_player_run_up.yy",},"order":2,},
     {"id":{"name":"t_dirwall","path":"tilesets/t_dirwall/t_dirwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":0,},
+    {"id":{"name":"s_grass_effect","path":"sprites/s_grass_effect/s_grass_effect.yy",},"order":13,},
     {"id":{"name":"is_target","path":"scripts/is_target/is_target.yy",},"order":9,},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
     {"id":{"name":"add_movement_maxspeed","path":"scripts/add_movement_maxspeed/add_movement_maxspeed.yy",},"order":0,},
