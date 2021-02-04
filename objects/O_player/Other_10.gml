@@ -1,11 +1,11 @@
 /// @description move state
 image_speed = 0;
 
-var _x_input  = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-var _y_input  = keyboard_check(ord("S")) - keyboard_check(ord("W"));
+var _x_input  = o_input.right_ - o_input.left_;
+var _y_input  = o_input.down_ - o_input.up_;
 var _input_direction_ = point_direction(0, 0, _x_input, _y_input);
-var _attack_input = keyboard_check_pressed(ord("J"));
-var _roll_input = keyboard_check_pressed(ord("K"));
+var _attack_input = o_input.action_one_pressed_;
+var _roll_input = o_input.action_two_pressed_;
 roll_direction_ = direction_facing * 90;
 
 if (_x_input == 0 && _y_input == 0)  {
