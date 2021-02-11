@@ -9,6 +9,7 @@
     {"id":{"name":"O_solid","path":"objects/O_solid/O_solid.yy",},"order":1,},
     {"id":{"name":"s_sword_hitbox","path":"sprites/s_sword_hitbox/s_sword_hitbox.yy",},"order":2,},
     {"id":{"name":"o_hitboxes","path":"objects/o_hitboxes/o_hitboxes.yy",},"order":3,},
+    {"id":{"name":"draw_self_flash","path":"scripts/draw_self_flash/draw_self_flash.yy",},"order":11,},
     {"id":{"name":"S_player_run_up","path":"sprites/S_player_run_up/S_player_run_up.yy",},"order":2,},
     {"id":{"name":"t_dirwall","path":"tilesets/t_dirwall/t_dirwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":0,},
