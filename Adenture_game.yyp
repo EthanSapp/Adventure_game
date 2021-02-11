@@ -33,6 +33,7 @@
     {"id":{"name":"S_player_run_right","path":"sprites/S_player_run_right/S_player_run_right.yy",},"order":1,},
     {"id":{"name":"S_player_run_down","path":"sprites/S_player_run_down/S_player_run_down.yy",},"order":0,},
     {"id":{"name":"initialize_hirtbox_entity","path":"scripts/initialize_hirtbox_entity/initialize_hirtbox_entity.yy",},"order":7,},
+    {"id":{"name":"o_camera","path":"objects/o_camera/o_camera.yy",},"order":8,},
     {"id":{"name":"apply_friction_to_movement_entity","path":"scripts/apply_friction_to_movement_entity/apply_friction_to_movement_entity.yy",},"order":1,},
     {"id":{"name":"s_dirtpat_tileset","path":"sprites/s_dirtpat_tileset/s_dirtpat_tileset.yy",},"order":0,},
     {"id":{"name":"R_int","path":"rooms/R_int/R_int.yy",},"order":1,},
