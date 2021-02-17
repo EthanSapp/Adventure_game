@@ -22,7 +22,7 @@ if (_x_input == 0 && _y_input == 0)  {
 	roll_direction_ = direction_facing * 90; 
 }
 
-if (_attack_input = true){
+if (_attack_input = true && global.swordEquiped == true){
 	image_index = 0;
 	state_ = player.sword;
 }
@@ -30,6 +30,7 @@ if (_attack_input = true){
 if (_roll_input == true) {
 	image_index = 0;
 	state_ = player.evade;
+	audio_play_sound(sEvade, 1, false);
 }
 
 move_movement_entity(false);
