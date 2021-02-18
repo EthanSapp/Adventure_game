@@ -1,11 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"sTitleScreen","path":"sprites/sTitleScreen/sTitleScreen.yy",},"order":22,},
     {"id":{"name":"o_grass","path":"objects/o_grass/o_grass.yy",},"order":2,},
     {"id":{"name":"o_porcupine","path":"objects/o_porcupine/o_porcupine.yy",},"order":1,},
     {"id":{"name":"move_movement_entity","path":"scripts/move_movement_entity/move_movement_entity.yy",},"order":3,},
     {"id":{"name":"animation_hit_frame","path":"scripts/animation_hit_frame/animation_hit_frame.yy",},"order":3,},
     {"id":{"name":"O_player","path":"objects/O_player/O_player.yy",},"order":0,},
     {"id":{"name":"sSwordInventory","path":"sprites/sSwordInventory/sSwordInventory.yy",},"order":21,},
+    {"id":{"name":"oGameMusic","path":"objects/oGameMusic/oGameMusic.yy",},"order":15,},
     {"id":{"name":"t_dirtpath","path":"tilesets/t_dirtpath/t_dirtpath.yy",},"order":1,},
     {"id":{"name":"O_solid","path":"objects/O_solid/O_solid.yy",},"order":1,},
     {"id":{"name":"oBush","path":"objects/oBush/oBush.yy",},"order":10,},
@@ -29,6 +31,7 @@
     {"id":{"name":"s_player_sword_right","path":"sprites/s_player_sword_right/s_player_sword_right.yy",},"order":3,},
     {"id":{"name":"aMusic","path":"sounds/aMusic/aMusic.yy",},"order":5,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":2,},
+    {"id":{"name":"oStartMusic","path":"objects/oStartMusic/oStartMusic.yy",},"order":14,},
     {"id":{"name":"s_dirtwall_tileset","path":"sprites/s_dirtwall_tileset/s_dirtwall_tileset.yy",},"order":1,},
     {"id":{"name":"get_direction_facing","path":"scripts/get_direction_facing/get_direction_facing.yy",},"order":0,},
     {"id":{"name":"s_grass","path":"sprites/s_grass/s_grass.yy",},"order":4,},
@@ -54,11 +57,13 @@
     {"id":{"name":"R_int","path":"rooms/R_int/R_int.yy",},"order":1,},
     {"id":{"name":"fGame","path":"fonts/fGame/fGame.yy",},"order":0,},
     {"id":{"name":"sBush","path":"sprites/sBush/sBush.yy",},"order":17,},
+    {"id":{"name":"rStart","path":"rooms/rStart/rStart.yy",},"order":2,},
     {"id":{"name":"s_porcupine_hitbox","path":"sprites/s_porcupine_hitbox/s_porcupine_hitbox.yy",},"order":12,},
     {"id":{"name":"create_animation_effect","path":"scripts/create_animation_effect/create_animation_effect.yy",},"order":10,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
     {"id":{"name":"s_death_effect","path":"sprites/s_death_effect/s_death_effect.yy",},"order":15,},
     {"id":{"name":"a_hurt","path":"sounds/a_hurt/a_hurt.yy",},"order":2,},
+    {"id":{"name":"aMusic2","path":"sounds/aMusic2/aMusic2.yy",},"order":7,},
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":2,},
     {"id":{"name":"sEvade","path":"sounds/sEvade/sEvade.yy",},"order":4,},
     {"id":{"name":"sNotInSone","path":"sprites/sNotInSone/sNotInSone.yy",},"order":19,},
@@ -87,6 +92,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"R_int","path":"rooms/R_int/R_int.yy",},},
+    {"roomId":{"name":"rStart","path":"rooms/rStart/rStart.yy",},},
     {"roomId":{"name":"R_base","path":"rooms/R_base/R_base.yy",},},
   ],
   "Folders": [
