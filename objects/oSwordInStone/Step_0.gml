@@ -3,5 +3,6 @@ if (distance_to_object(O_player) <= 10){
 		sprite_index = sNotInSone;
 		global.swordEquiped = true;
 		audio_play_sound(aPickUP, 1, false);
+		
 	}
 }
