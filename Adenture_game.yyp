@@ -16,9 +16,12 @@
     {"id":{"name":"o_hitboxes","path":"objects/o_hitboxes/o_hitboxes.yy",},"order":3,},
     {"id":{"name":"sEvadeRing","path":"sprites/sEvadeRing/sEvadeRing.yy",},"order":16,},
     {"id":{"name":"draw_self_flash","path":"scripts/draw_self_flash/draw_self_flash.yy",},"order":11,},
+<<<<<<< HEAD
     {"id":{"name":"aPickUP","path":"sounds/aPickUP/aPickUP.yy",},"order":6,},
     {"id":{"name":"sSwordInStone","path":"sprites/sSwordInStone/sSwordInStone.yy",},"order":11,},
     {"id":{"name":"a_swipe","path":"sounds/a_swipe/a_swipe.yy",},"order":1,},
+=======
+>>>>>>> parent of 919a4b8 (updated 2-16-21 9:38 am (part 36))
     {"id":{"name":"S_player_run_up","path":"sprites/S_player_run_up/S_player_run_up.yy",},"order":2,},
     {"id":{"name":"t_dirwall","path":"tilesets/t_dirwall/t_dirwall.yy",},"order":0,},
     {"id":{"name":"create_hitbox","path":"scripts/create_hitbox/create_hitbox.yy",},"order":0,},
@@ -26,9 +29,13 @@
     {"id":{"name":"is_target","path":"scripts/is_target/is_target.yy",},"order":9,},
     {"id":{"name":"o_game","path":"objects/o_game/o_game.yy",},"order":5,},
     {"id":{"name":"add_movement_maxspeed","path":"scripts/add_movement_maxspeed/add_movement_maxspeed.yy",},"order":0,},
+<<<<<<< HEAD
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":0,},
     {"id":{"name":"sTree","path":"sprites/sTree/sTree.yy",},"order":9,},
     {"id":{"name":"s_porcupine_run","path":"sprites/s_porcupine_run/s_porcupine_run.yy",},"order":3,},
+=======
+    {"id":{"name":"s_porcupine_run","path":"sprites/s_porcupine_run/s_porcupine_run.yy",},"order":10,},
+>>>>>>> parent of 919a4b8 (updated 2-16-21 9:38 am (part 36))
     {"id":{"name":"s_player_sword_right","path":"sprites/s_player_sword_right/s_player_sword_right.yy",},"order":3,},
     {"id":{"name":"aMusic","path":"sounds/aMusic/aMusic.yy",},"order":5,},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},"order":2,},
@@ -43,10 +50,14 @@
     {"id":{"name":"porcupine_attack","path":"scripts/porcupine_attack/porcupine_attack.yy",},"order":6,},
     {"id":{"name":"S_solid","path":"sprites/S_solid/S_solid.yy",},"order":0,},
     {"id":{"name":"o_animation_effect","path":"objects/o_animation_effect/o_animation_effect.yy",},"order":7,},
+<<<<<<< HEAD
     {"id":{"name":"fInventory","path":"fonts/fInventory/fInventory.yy",},"order":1,},
     {"id":{"name":"a_porcupine_attack","path":"sounds/a_porcupine_attack/a_porcupine_attack.yy",},"order":3,},
     {"id":{"name":"oTree","path":"objects/oTree/oTree.yy",},"order":9,},
     {"id":{"name":"s_porcupine_attack","path":"sprites/s_porcupine_attack/s_porcupine_attack.yy",},"order":4,},
+=======
+    {"id":{"name":"s_porcupine_attack","path":"sprites/s_porcupine_attack/s_porcupine_attack.yy",},"order":11,},
+>>>>>>> parent of 919a4b8 (updated 2-16-21 9:38 am (part 36))
     {"id":{"name":"S_player_run_right","path":"sprites/S_player_run_right/S_player_run_right.yy",},"order":1,},
     {"id":{"name":"S_player_run_down","path":"sprites/S_player_run_down/S_player_run_down.yy",},"order":0,},
     {"id":{"name":"oSwordInStone","path":"objects/oSwordInStone/oSwordInStone.yy",},"order":11,},
@@ -63,9 +74,13 @@
     {"id":{"name":"s_porcupine_hitbox","path":"sprites/s_porcupine_hitbox/s_porcupine_hitbox.yy",},"order":5,},
     {"id":{"name":"create_animation_effect","path":"scripts/create_animation_effect/create_animation_effect.yy",},"order":10,},
     {"id":{"name":"s_player_roll_up","path":"sprites/s_player_roll_up/s_player_roll_up.yy",},"order":7,},
+<<<<<<< HEAD
     {"id":{"name":"s_death_effect","path":"sprites/s_death_effect/s_death_effect.yy",},"order":8,},
     {"id":{"name":"a_hurt","path":"sounds/a_hurt/a_hurt.yy",},"order":2,},
     {"id":{"name":"aMusic2","path":"sounds/aMusic2/aMusic2.yy",},"order":7,},
+=======
+    {"id":{"name":"s_death_effect","path":"sprites/s_death_effect/s_death_effect.yy",},"order":15,},
+>>>>>>> parent of 919a4b8 (updated 2-16-21 9:38 am (part 36))
     {"id":{"name":"initialize_movement_entity","path":"scripts/initialize_movement_entity/initialize_movement_entity.yy",},"order":2,},
     {"id":{"name":"sEvade","path":"sounds/sEvade/sEvade.yy",},"order":4,},
     {"id":{"name":"sNotInSone","path":"sprites/sNotInSone/sNotInSone.yy",},"order":12,},
